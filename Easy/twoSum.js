@@ -1,4 +1,4 @@
-// Two Sum
+// Two Sum: returning the two elements in an array that add up to the target num
 
 // Brut Force Solution
 
@@ -58,3 +58,5 @@ function twoNumberSum(array, targetSum) {
   }
   return [];
 }
+
+// Two Sum: returning the idecies at the elements that add up to the target num
